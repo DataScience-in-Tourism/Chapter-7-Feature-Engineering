@@ -1,4 +1,4 @@
-# Chapter 7: Feature-Engineering
+# Chapter 7: Feature Engineering
 ## Human-in-the-loop Machine Learning
 
 ***Pablo Duboue***
