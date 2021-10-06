@@ -1,5 +1,7 @@
 # Chapter 7: Feature Engineering
+
 ## Human-in-the-loop Machine Learning
+## http://www.datascience-in-tourism.com/
 
 ***Pablo Duboue***
 
